@@ -1,0 +1,2 @@
+D:\tmp\azk_data_logger\x64\Debug\azk_data_logger.exe
+D:\tmp\azk_data_logger\x64\Debug\azk_data_logger.pdb
